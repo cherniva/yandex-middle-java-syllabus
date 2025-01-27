@@ -147,6 +147,12 @@ Rewrite the previously created blog application using SpringBoot and test the We
 
 ### [8 weeks], [1 project]
 
+- Learn about the possibilities of writing classic web applications in the Model-View-Controller paradigm with approaches for fetching data from a relational database using the combination of Spring Data + Hibernate for object-relational mapping.
+
+- Explore the advantages and disadvantages of the reactive approach in writing web-oriented applications, try Reactive Stack and R2DBC for database access, and learn to write tests using TestContainers and Spring MVC Test.
+
+- Study the possibilities of writing RESTful services and using OpenAPI specifications for generating RestController, as well as ensuring user authentication and authorization using the Spring Security framework.
+
 ---
 
 ## Sprint 5: Development of a Classic Application using Spring Data and Spring Web: Servlet Stack
@@ -222,6 +228,16 @@ Enhance the storefront using the reactive engine of Spring Boot — add Spring S
 # 03 Development of a Microservices Application
 
 ### [8 weeks], [1 project]
+
+- Learn about the main advantages of using a microservices approach to writing applications: Saga, Circuit Breaker, API Gateway, and Service Discovery.
+
+- Explore the main patterns and support from the Spring Cloud framework, including Modulith, Consul, and Zookeeper.
+
+- Learn how to ensure security when exchanging data between microservices.
+
+- Gain the ability to deploy applications using CI/CD, the currently popular Kubernetes, and Helm.
+
+- Discover the capabilities of the Apache Kafka streaming platform and its use to deliver data to the ELK stack for monitoring and log delivery.
 
 ---
 
